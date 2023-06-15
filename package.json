@@ -63,7 +63,7 @@
     "concurrently": "^3.5.0",
     "cross-env": "^5.1.0",
     "enzyme": "^3.1.0",
-    "eslint": "^4.8.0",
+    "eslint": "^8.42.0",
     "eslint-config-standard": "^10.2.1",
     "eslint-plugin-import": "^2.7.0",
     "eslint-plugin-node": "^5.2.0",
@@ -82,7 +82,7 @@
     "redux": "^3.7.2",
     "redux-thunk": "^2.2.0",
     "reselect": "^3.0.1",
-    "size-limit": "^0.11.6"
+    "size-limit": "^8.2.4"
   },
   "_resolved": "",
   "_integrity": "",
